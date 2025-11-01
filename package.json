@@ -1,0 +1,19 @@
+{
+  "name": "regassist",
+  "version": "1.0.0",
+  "description": "Regiment Assistant made by modularmania on GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.23.2",
+    "dotenv": "^17.2.3",
+    "mongoose": "^8.19.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.38.0"
+  }
+}
